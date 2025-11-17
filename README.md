@@ -102,7 +102,7 @@ Ces paramètres peuvent être modifiés dans le fichier `import_documents.py` en
 ## Structure du projet
 
 ```
-Alcega/
+Dir/
 ├── Data/                          # Répertoire contenant les documents à importer
 │   ├── Enveloppe_2_COLLECTEAM/
 │   ├── Enveloppe_3_ALTERNATIVE COURTAGE/
